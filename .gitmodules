@@ -1,0 +1,4 @@
+[submodule "pokemon-tcg-data"]
+	path = pokemon-tcg-data
+	url = https://github.com/malorch/pokemon-tcg-data.git
+	branch = master
